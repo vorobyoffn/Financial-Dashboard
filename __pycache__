@@ -1,0 +1,25 @@
+<script>start("/Users/nikitavorobjov/Downloads/__pycache__/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,384,"384 B",1754832433,"10/08/2025, 16:27:13");</script>
+<script>addRow(".github",".github",1,96,"96 B",1754831791,"10/08/2025, 16:16:31");</script>
+<script>addRow("Input","Input",1,64,"64 B",1754831012,"10/08/2025, 16:03:32");</script>
+<script>addRow("logs","logs",1,64,"64 B",1754831012,"10/08/2025, 16:03:32");</script>
+<script>addRow("Output","Output",1,192,"192 B",1754831012,"10/08/2025, 16:03:32");</script>
+<script>addRow("templates","templates",1,192,"192 B",1754830976,"10/08/2025, 16:02:56");</script>
+<script>addRow("uploads","uploads",1,64,"64 B",1754831012,"10/08/2025, 16:03:32");</script>
+<script>addRow(".gitignore",".gitignore",0,2124,"2.1 kB",1754831415,"10/08/2025, 16:10:15");</script>
+<script>addRow("app.py","app.py",0,8590,"8.4 kB",1754831068,"10/08/2025, 16:04:28");</script>
+<script>addRow("create_demo_data.py","create_demo_data.py",0,7029,"6.9 kB",1754830835,"10/08/2025, 16:00:35");</script>
+<script>addRow("dashboard_config.py","dashboard_config.py",0,1900,"1.9 kB",1754830835,"10/08/2025, 16:00:35");</script>
+<script>addRow("deploy.sh","deploy.sh",0,5868,"5.7 kB",1754831868,"10/08/2025, 16:17:48");</script>
+<script>addRow("docker-compose.yml","docker-compose.yml",0,766,"766 B",1754831625,"10/08/2025, 16:13:45");</script>
+<script>addRow("Dockerfile","Dockerfile",0,1044,"1.0 kB",1754831616,"10/08/2025, 16:13:36");</script>
+<script>addRow("get_company_info.py","get_company_info.py",0,1867,"1.8 kB",1754830835,"10/08/2025, 16:00:35");</script>
+<script>addRow("get_index.py","get_index.py",0,3560,"3.5 kB",1754830835,"10/08/2025, 16:00:35");</script>
+<script>addRow("get_package_name.py","get_package_name.py",0,2369,"2.3 kB",1754830835,"10/08/2025, 16:00:35");</script>
+<script>addRow("GITHUB_SETUP.md","GITHUB_SETUP.md",0,4452,"4.3 kB",1754831903,"10/08/2025, 16:18:23");</script>
+<script>addRow("install_dashboard.py","install_dashboard.py",0,5968,"5.8 kB",1754830835,"10/08/2025, 16:00:35");</script>
+<script>addRow("LICENSE","LICENSE",0,1085,"1.1 kB",1754831403,"10/08/2025, 16:10:03");</script>
+<script>addRow("README.md","README.md",0,8575,"8.4 kB",1754831927,"10/08/2025, 16:18:47");</script>
+<script>addRow("requirements.txt","requirements.txt",0,217,"217 B",1754831068,"10/08/2025, 16:04:28");</script>
+<script>addRow("start_dashboard.py","start_dashboard.py",0,7470,"7.3 kB",1754830835,"10/08/2025, 16:00:35");</script>
